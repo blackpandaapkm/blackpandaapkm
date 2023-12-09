@@ -1,9 +1,9 @@
 <p align="center">
 <img style="display: block; margin: 0 auto"  src ="https://github.com/blackpandaapkm/blackpandaapkm/assets/97750732/826334a5-d3cf-465e-9de3-ba44b49f55d9" width="400" height="250"/>
 </p>
-<p align="center">
+<!-- <p align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK-PANDA&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+</p> -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anupam-kumar-biswas-a6822910b" target="_blank">
